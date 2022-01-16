@@ -1,9 +1,8 @@
 .intro {
   font-family: "Poppins", sans-serif;
   text-align: center;
-  margin: 100px auto;
-  display: block;
-  margin-bottom: 30px;
+  margin: 150px auto;
+  margin-bottom: 10px;
 }
 
 .i-am {
@@ -17,10 +16,17 @@
   padding: 0;
   margin: -15px;
 }
+.little-intro {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  display: inline;
+  letter-spacing: 2.5px;
+}
 .buttons {
   font-family: "Poppins", sans-serif;
   display: block;
   text-align: center;
+  margin-top: 30px;
 }
 .about,
 .contact,
@@ -43,4 +49,21 @@
   padding: 15px;
   padding-right: 20px;
   padding-left: 20px;
+}
+.about:hover {
+  background: #bcbaba;
+  color: white;
+  transition: all 200ms ease-in-out;
+}
+
+.contact:hover {
+  background: #bcbaba;
+  color: white;
+  transition: all 200ms ease-in-out;
+}
+
+.work:hover {
+  background: #bcbaba;
+  color: white;
+  transition: all 200ms ease-in-out;
 }
