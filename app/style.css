@@ -3,6 +3,7 @@
   text-align: center;
   margin: 100px auto;
   display: block;
+  margin-bottom: 30px;
 }
 
 .i-am {
@@ -15,4 +16,20 @@
   font-weight: bolder;
   padding: 0;
   margin: -15px;
+}
+.buttons {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.about,
+.contact,
+.work {
+  border: none;
+  border-radius: 29px;
+  margin: 10px;
+}
+.about,
+.contact,
+.work {
+  padding: 15px;
 }
