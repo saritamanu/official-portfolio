@@ -1,20 +1,18 @@
-h1,
-h2 {
+.intro {
   font-family: "Poppins", sans-serif;
   text-align: center;
-  margin: 0 auto;
+  margin: 100px auto;
   display: block;
 }
 
-.hello {
-  font-size: 70px;
-  font-weight: bolder;
+.i-am {
+  font-size: 62px;
   margin-bottom: 0;
   padding-bottom: 0;
 }
-.i-am,
 .sara {
-  font-size: 50px;
+  font-size: 140px;
+  font-weight: bolder;
   padding: 0;
-  margin: -18px;
+  margin: -15px;
 }
