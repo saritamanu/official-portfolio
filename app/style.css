@@ -91,6 +91,12 @@
   color: white;
   transition: all 200ms ease-in-out;
 }
+.intro-about {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: 100px auto;
+  margin-bottom: 10px;
+}
 .about-me {
   font-family: "Poppins", sans-serif;
   font-size: 62px;
@@ -99,7 +105,7 @@
 }
 .about-me-p {
   margin: 30px;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 350px;
+  padding-right: 350px;
   text-align: justify;
 }
