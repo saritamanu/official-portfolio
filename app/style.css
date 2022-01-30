@@ -100,12 +100,16 @@
 .about-me {
   font-family: "Poppins", sans-serif;
   font-size: 62px;
-  margin-bottom: 0;
-  padding-bottom: 0;
 }
 .about-me-p {
   margin: 30px;
   padding-left: 350px;
   padding-right: 350px;
   text-align: justify;
+}
+.intro-contact {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: 50px auto;
+  margin-bottom: ;
 }
