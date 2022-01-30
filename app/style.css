@@ -36,7 +36,7 @@
   border-radius: 29px;
   margin: 0 auto;
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .intro {
     margin-top: 100px;
     display: block;
@@ -55,6 +55,9 @@
   .work {
     display: list-item;
     margin-bottom: 10px;
+  }
+  .col-text {
+    display: none;
   }
 }
 .about {
@@ -148,4 +151,15 @@
   font-family: "Poppins", sans-serif;
   text-align: center;
   padding: 0px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+  padding: 10px;
+}
+.link:hover {
+  background: #bcbaba;
+  color: white;
+  transition: all 200ms ease-in-out;
 }
