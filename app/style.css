@@ -55,6 +55,7 @@
     display: list-item;
     margin-bottom: 10px;
   }
+
 }
 .about {
   padding: 15px;
@@ -102,13 +103,23 @@
   font-size: 62px;
 }
 .about-me-p {
+  
   margin: 30px;
-  padding-left: 350px;
-  padding-right: 350px;
   text-align: justify;
+  margin-left:  20px auto;
+  margin-right: 20px auto;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .intro-contact {
   font-family: "Poppins", sans-serif;
   text-align: center;
   margin: 50px auto;
 }
+@media (min-width: 1000px) {
+  .about-me-p{
+    
+    margin-left: 350px ;
+    margin-right: 350px ;
+
+  }
