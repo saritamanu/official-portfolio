@@ -173,9 +173,16 @@ footer {
   font-family: "Poppins", sans-serif;
   text-align: center;
 }
-.footer-about {
+.footer-work {
   font-size: 10px;
   margin-top: 50px;
+  margin-bottom: 30px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.footer-about {
+  font-size: 10px;
+  margin-top: 200px;
   margin-bottom: 30px;
   font-family: "Poppins", sans-serif;
   text-align: center;
