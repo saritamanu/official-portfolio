@@ -91,13 +91,15 @@
   color: white;
   transition: all 200ms ease-in-out;
 }
-.intro-about {
+.intro-about,
+.intro-work {
   font-family: "Poppins", sans-serif;
   text-align: center;
   margin: 100px auto;
   margin-bottom: 10px;
 }
-.about-me {
+.about-me,
+.work-title {
   font-family: "Poppins", sans-serif;
   font-size: 62px;
 }
