@@ -30,7 +30,8 @@
 }
 .about,
 .contact,
-.work {
+.work,
+.app {
   border: none;
   border-radius: 29px;
   margin: 0 auto;
